@@ -12,4 +12,5 @@ class Person
 end 
 
  human =  Person.new 
- puts 
+ puts human.talk 
+ puts human.walk 
