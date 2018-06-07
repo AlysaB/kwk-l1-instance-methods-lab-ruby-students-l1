@@ -11,4 +11,5 @@ class Person
   end
 end 
 
- human =  
+ human =  Person.new 
+ puts 
